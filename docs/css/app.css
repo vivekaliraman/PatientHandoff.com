@@ -1,0 +1,17 @@
+
+.menu .menu-text {
+	color: #FF8844; 
+	font-size: 200%; 
+}
+
+
+h3 {
+	color: #4A90E2;
+	padding: 5.00rem; 
+	text-align: center; 
+	border: 0px none;	
+}
+
+.sticky-topbar {
+	width: 100%; 
+}
